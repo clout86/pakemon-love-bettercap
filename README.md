@@ -1,3 +1,11 @@
+
+this is a fork of https://github.com/notnullgames/pakemon-love-bettercap 
+
+theres a lot of extra utilites and display windows that are being dsiplayed/used. 
+
+still WIP migration from:  https://github.com/clout86/the-read-team/tree/main/planet_rendor
+
+
 # pakemon
 
 This is a gamified frontend for hacking tools, meant to run with limited input (joystick) like on a pizero made to look like a gameboy.
@@ -8,7 +16,7 @@ It needs love & docker installed to develop locally.
 
 ```
 # get files and deps
-git clone --recursive https://github.com/notnullgames/pakemon-love-bettercap.git
+git clone --recursive https://github.com/clout86/pakemon-love-bettercap.git
 cd pakemon-love-bettercap
 make setup
 
