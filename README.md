@@ -41,7 +41,4 @@ PAKEMON_URL=http://pakemon:pakemon@localhost:8081
 ```
 
 ## credits
-
-I am trying to keep track of all artwork used.
-
-- [portrait images](https://www.spriters-resource.com/pc_computer/rpgmakervx/sheet/100109/)
+Assets from: https://deep-fold.itch.io/
