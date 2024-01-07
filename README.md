@@ -1,7 +1,7 @@
 # imma fork!
 this is a fork of https://github.com/notnullgames/pakemon-love-bettercap 
 
-theres a lot of extra utilites and display windows that are being dsiplayed/used. 
+theres a lot of extra utilites and display windows that are not being dsiplayed/used. 
 
 still WIP migration from:  https://github.com/clout86/the-read-team/tree/main/planet_rendor
 
